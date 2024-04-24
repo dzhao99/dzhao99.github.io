@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Ding Zhao
-    - name: Date of Birth
-      value: 28th December 1999
+    - name: Occupation
+      value: PhD Student at Johs Hopkins University
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
