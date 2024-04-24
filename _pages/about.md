@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.cs.jhu.edu'>cs@jhu</a>. Ph.D Student
+subtitle: Ph.D Student at Johns Hopkins University.
 
 profile:
   align: right
@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year Ph.D student advised by Prof. [Renjie Zhao](https://renjiezhao.github.io) at [Johns Hopkins University](https://www.jhu.edu)(JHU), majoring in Computer Science. I am broadly interested in wireless networking, mobile computing and intelligent IOT systems.
 
-Before joining JHU, I received a master's degree in Electrical and Computering Engineering at [University of California, Los Angeles](https://www.ucla.edu)(UCLA), supervised by Prof. [Danijela Cabric](https://cores.ee.ucla.edu/people/danijela-cabric/). I received my bachelor's degree at [Zhejiang University](https://www.zju.edu.cn)(ZJU).
+Before joining JHU, I received a master's degree in Electrical and Computering Engineering at [University of California, Los Angeles](https://www.ucla.edu)(UCLA), supervised by Prof. [Danijela Cabric](https://cores.ee.ucla.edu/people/danijela-cabric/). I earned my bachelor's degree at [Zhejiang University](https://www.zju.edu.cn)(ZJU).
 
-The best way to contact me is by email: [dzhao29[AT]jhu[DOT]edu](mailto:dzhao29@jhu.edu).
+Contact: [dzhao29[AT]jhu[DOT]edu](mailto:dzhao29@jhu.edu).
