@@ -32,28 +32,20 @@
   ],
   "awards": [
     {
-      "title": "Outstanding Graduates of Zhejiang University",
-      "date": "2022",
-      "awarder": "Zhejiang University"
+      "awarder": "Outstanding Graduates of Zhejiang University",
+      "date": "2022"
     },
     {
-      "title": "Academic Records Scholarship of Zhejiang University(First class)",
-      "date": "2021",
-      "awarder": "Zhejiang University"
+      "awarder": "Academic Records Scholarship of Zhejiang University(First class)",
+      "date": "2021"
     },
     {
-      "title": "Academic Records Scholarship of Zhejiang University(First class)",
-      "date": "2020",
-      "awarder": "Zhejiang University"
+      "awarder": "Academic Records Scholarship of Zhejiang University(First class)",
+      "date": "2020"
     },
     {
-      "title": "Scholarship of National Talent Training Base(First class)",
-      "date": "2020",
-      "awarder": "Zhejiang University"
-    },
-    {
-      "date": "2020",
-      "items": "Zhejiang University"
+      "awarder": "Scholarship of National Talent Training Base(First class)",
+      "date": "2020"
     }
   ],
   "languages": [
