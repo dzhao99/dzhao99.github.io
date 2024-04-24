@@ -13,7 +13,7 @@
       "location": "Baltimore, US",
       "studyType": "PhD in Computer Science",
       "startDate": "2024",
-      "endDate": " "
+      "endDate": "present"
     },
     {
       "institution": "University of California, Los Angeles",
@@ -48,6 +48,10 @@
     },
     {
       "title": "Scholarship of National Talent Training Base(First class)",
+      "date": "2020",
+      "awarder": "Zhejiang University"
+    },
+    {
       "date": "2020",
       "awarder": "Zhejiang University"
     }
