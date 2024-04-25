@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D Student at Johns Hopkins University.
+subtitle: Ph.D Student <a href='https://www.cs.jhu.edu'>CS@JHU</a>
 
 profile:
   align: right
