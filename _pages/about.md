@@ -22,4 +22,4 @@ I am a first-year Ph.D student advised by Prof. [Renjie Zhao](https://renjiezhao
 
 Before joining JHU, I received a master's degree in Electrical and Computering Engineering at [University of California, Los Angeles](https://www.ucla.edu)(UCLA), supervised by Prof. [Danijela Cabric](https://cores.ee.ucla.edu/people/danijela-cabric/). I earned my bachelor's degree in Electronics Science and Technology at [Zhejiang University](https://www.zju.edu.cn)(ZJU).
 
-Contact: [dzhao29[AT]jhu[DOT]edu](mailto:dzhao29@jhu.edu).
+Contact: [dzhao29 [AT] jhu [DOT] edu](mailto:dzhao29@jhu.edu).
